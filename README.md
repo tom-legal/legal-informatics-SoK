@@ -1,2 +1,2 @@
-# SoK-open-ended-
+# Systematization of Knowledge
 Only text, no code
