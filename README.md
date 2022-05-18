@@ -1,2 +1,2 @@
 # Systematization of Knowledge
-Only text, no code
+Compendium of terms, concepts and initiatives
